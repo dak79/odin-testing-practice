@@ -1,7 +1,3 @@
-/**
- * A reveseString function that take a string and revese it
- */
-
 import { reverse } from './reverse'
 
 describe('Revese String', () => {

@@ -1,7 +1,3 @@
-/**
- * A Capitalize function that take a string and returne it with a first char
- * capitalized
- */
 import { capitalize } from './capitalize'
 
 test('Input Number', () => {
